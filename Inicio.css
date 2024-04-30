@@ -904,8 +904,8 @@
   white-space: nowrap;
   height: 32px;
   min-height: 16px;
-  width: 188px;
-  min-width: 124px;
+  width: 84px;
+  min-width: 52px;
   margin: 23px auto 0 0;
 }
 
@@ -914,14 +914,6 @@
 }
 
 .u-section-5 .u-icon-2 {
-  height: 100%;
-}
-
-.u-section-5 .u-icon-3 {
-  height: 100%;
-}
-
-.u-section-5 .u-icon-4 {
   height: 100%;
 }
 
@@ -960,6 +952,11 @@
 
   .u-section-5 .u-layout-cell-2 {
     min-height: 222px;
+  }
+
+  .u-section-5 .u-social-icons-1 {
+    width: 188px;
+    min-width: 124px;
   }
 
   .u-section-5 .u-layout-cell-3 {
